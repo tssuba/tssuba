@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tssuba
-- 📫 hellotanmay@pm.me
+<!-- - 📫 hellotanmay@pm.me -->
 
 <!---- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
